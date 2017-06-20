@@ -1,7 +1,6 @@
+![](/OSXInfo.jpg)
 # OSX-Info.sh
 A Bash script for written for use while installing and testing an OSX Image on a PC (primarily for tonymacx86 people).
-
-![alt text](https://github.com/Bos3Mq/OSX-Info.sh/OSXInfo.tiff)
 
 Overview
 --------
