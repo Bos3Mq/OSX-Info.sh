@@ -18,9 +18,9 @@ In this section there are 4 options to choose from, 3 of which will print out a 
 
 > [1] Print out all information on the system: this will trigger the script to run 'system_profiler'in medium detail, and write           its output to a text file named (SysInfo.txt)
 
-> [2] List all open internet connections: this option will list all connecitons to the internet that are currently being used form your PC. This feature will print this output to the terminal window other than a .txt file.
+> [2] List all open internet connections: this option will list all connecitons to the internet that are currently being used from your PC. This feature will print this output to the terminal window other than a .txt file.
 
-> [3] List detected usb devices/ports: quite self-explanatory. This option lists all usb ports and devices that are currently detected on the system along with the manufacturer details. Its output is saved to a the file (USBInfo.txt).
+> [3] List detected usb devices/ports: quite self-explanatory. This option lists all usb ports and devices that are currently detected on the system along with the manufacturer details. Its output is saved to the file (USBInfo.txt).
 
 > [4] List network interfaces: this command output all information relevant to any network settings (IPv4 configuration, IPv6, dns settings, additional routes, etc...). Its output is saved to (NetInfo.txt).
 
@@ -28,7 +28,7 @@ In this section there are 4 options to choose from, 3 of which will print out a 
 
 Under this category there are a list of functions that serve the purpose of testing various features on your system, including hardware.
 
-> [5] Perform a disk check: this functions will trigger a 'diskutil verifyVolume /' command, verifying the state of your system drive. A warning message will appear if any corruption is found.
+> [5] Perform a disk check: this function will trigger a 'diskutil verifyVolume /' command, verifying the state of your system drive. A warning message will appear if any corruption is found.
 
 > [6] Check for an internet connection: this command simply runs an nc to google to check for an open and working internet connection and will report back if any issues are found.
 
